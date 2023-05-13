@@ -1,7 +1,7 @@
 function Home() {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center p-24">
-      hello
+    <div className={'flex flex-row justify-center p-24'}>
+      home page
     </div>
   )
 }
