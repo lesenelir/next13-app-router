@@ -1,4 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next13
+
+## Introduction
+This project is a learning project based on the Next.js official documentation.
+
+Originating from the newly introduced app router, this project adopts the latest app router and abandons the page router.
+
+
+## Learning Content
+- [x] Layout component
+
+
+
+
+
+
+
+
+----
+
 
 ## Getting Started
 
